@@ -60,6 +60,17 @@ function(moves){
 
 ---
 
+### Experience
+
+- Data Engineer (<i>Tashkent, Uzbekistan</i>)
+  - Feb. 2024 - Present
+- Research Assistant (<i>Suwon, S.Korea</i>)
+  - Sep. 2021 - Jan. 2024
+- Python Developer (<i>Tashkent, Uzbekistan</i>)
+  - Jan. 2022 - Jul. 2022
+
+---
+
 ### Education:
 
 - MSc. in Computer Science - Sungkyunkwan University (<i>Suwon, S.Korea</i>)
